@@ -1,5 +1,5 @@
 import './App.css';
-import EventSummeryReport from './Pages/EventSummaryReport';
+import EventSummeryReport from './Pages/EventSummeryReport';
 
 function App() {
   return (
